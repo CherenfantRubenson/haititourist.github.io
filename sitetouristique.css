@@ -1,0 +1,50 @@
+
+
+nav   a{
+    float: center;    
+    text-decoration: none; 
+    color: #eea7a7; 
+    background: url(images/logo.png);  
+    height: 36px; 
+    line-height: 70px;  
+    padding: 0 10px; 
+    font-family: uppercase; 
+    font-size: 20px; 
+    
+    }
+  
+  header
+  {
+  background: url(jolie.jpg) fixed;
+  background-size: cover;
+  height: 790px;
+  padding-top: 10px;
+  }
+
+  body{
+      background-color: blanchedalmond;
+  }
+  #nord1 img{
+      
+      border-radius: 20px;
+      align-content: center;
+  }
+  #popot{
+      display:flex;
+      justify-content:space-between; 
+  }
+  .popot1 img
+  {
+      width: 25%;
+      object-fit: cover;
+      padding: 10px;
+      
+  }
+  #popot .popot1
+  {
+      display: flex;
+     
+      width: 120%;
+      
+  }
+

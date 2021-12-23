@@ -1,0 +1,114 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+ 
+
+body{
+    background-image: url( big.jpg);
+    background-size: 100% 100%;
+    color: rgb(0,0,0);
+     
+    align-content:  center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.userconnexion{
+
+    background-color: #ffffff5c;
+    height: 400px;
+    width: 400px;
+    margin-top: 10%;
+    border-radius: 15px;
+    text-align-last: center;
+
+}
+
+h1 {
+    text-decoration: rgb(0,0,0);
+    
+    text-align: center;
+    
+}
+
+.titre{
+
+    text-align: center;
+    font-family: arial;
+    text-transform: uppercase; /*pour mettre les textes en majuscules*/
+    font-size: 15px;
+    padding-top: 15 px;
+}
+
+
+.nomutilisateur{
+
+
+    padding-top: 10px;
+    
+    
+}
+.nomutilisateur h3{
+        font-family: Arial, Helvetica, sans-serif;
+        
+        margin-left: 50px;
+        text-align: center;
+        color: black;
+}
+
+.nomutilisateur input { 
+    height: 30px;
+    width:300px;
+    border: solid 1px #000;
+    border-radius: 10px;
+
+}
+
+.password h3{
+    font-family: Arial, Helvetica, sans-serif;
+    float: center;
+    text-align: center;
+    margin-left: 50px;
+
+}
+
+.password input{
+    height: 30px;
+    width: 300px;
+    border: solid 1px #000;
+    border-radius: 10px;
+}
+
+
+
+.bouttonconnexion {
+    height: 35px;
+    width: 100px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 10px;
+    background-color: 003471;
+    color: #fff;
+}
+
+a{
+    text-decoration: none;
+    margin-top: 20px;
+    float: left;
+    margin-left: 60px;
+    text-align: center;
+}
+
+h3  {
+    text-align: center;
+
+    color: seashell;
+}
+h4{
+    color:seashell;
+}
+
+

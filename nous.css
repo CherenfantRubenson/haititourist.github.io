@@ -1,0 +1,24 @@
+nav   a{
+    float: center;    
+    text-decoration: none; 
+    color: #ffffff; 
+    background: url(images/logo.png);  /* image de fond */
+    height: 36px; 
+    line-height: 70px;  
+    padding: 0 10px; 
+    font-family: uppercase; /* police d'écriture */
+    font-size: 20px; 
+    
+    }
+  
+  header
+  {
+  background: url(touriste/jolie.jpg) fixed;
+  background-size: cover;
+  height: 790px;
+  padding-top: 10px;
+  }
+
+  body{
+      background-color: blanchedalmond;
+  }
